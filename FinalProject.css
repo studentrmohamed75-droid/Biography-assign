@@ -1,12 +1,19 @@
 .body1 {
-    background-color: rgb(2, 2, 2);
+    background-color: rgb(223, 31, 31);
     margin: 0px;
     color: white;
+}
+
+.homeImage {
+    width: 350px;
+    height: 350px;
+    padding-top: 30px;
 }
 
 .image {
     width: 350px;
     height: 350px;
+    padding-top: 30px;
 }
 
 .p1 {
@@ -15,7 +22,7 @@
 
 .nav ul {
     list-style-type: none;
-    background-color: rgb(85, 85, 85);
+    background-color: rgb(1, 172, 38);
     padding-left: 850px;
     margin: 0px;
     overflow: hidden;
@@ -42,10 +49,8 @@
     width: 350px;
     height: 350px;
     display: inline-block;
-}
-
-.P2 {
-    margin-bottom: 130px;
+    padding-top: 30px;
+    padding-left: 70px;
 }
 
 .h1 {
@@ -54,8 +59,37 @@
 }
 
 .div1 {
-    display: flex;
-    margin-bottom: 20px;
+    background-color: green;
+    width: 1000px;
+    height: 750px;
+    border-radius: 10%;
+    border: solid black;
+    margin-top: 20px;
 }
 
-.P3 {}
+.div2 {
+    background-color: green;
+    width: 500px;
+    height: 500px;
+    border-radius: 15px;
+    box-shadow: 0 0 10px black;
+    border: solid black;
+}
+
+.div3 {
+    background-color: green;
+    width: 500px;
+    height: 500px;
+    border-radius: 15px;
+    border: solid black;
+    box-shadow: 0 0 10px black;
+    margin-top: -504px;
+    margin-left: 600px;
+}
+
+.image2 {
+    width: 350px;
+    height: 350px;
+    padding-left: 30px;
+    margin-left: 20px;
+}
